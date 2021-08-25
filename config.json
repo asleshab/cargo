@@ -1,5 +1,5 @@
 {
-    "dl": "http://localhost:8855/api/v1/crates",
-    "api": "http://localhost:8855",
-    "allowed-registries": ["http://meuse.prudentgiraffe.com:8855/front"]
+    "dl": "http://meuse.prudentgiraffe.com:8855/api/v1/crates",
+    "api": "http://meuse.prudentgiraffe.com:8855",
+    "allowed-registries": ["http://meuse.prudentgiraffe.com:8855"]
 }
