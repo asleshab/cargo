@@ -1,5 +1,5 @@
 {
     "dl": "http://meuse.prudentgiraffe.com:8855/api/v1/crates",
     "api": "http://meuse.prudentgiraffe.com:8855",
-    "allowed-registries": ["http://meuse.prudentgiraffe.com:8855"]
+    "allowed-registries": ["https://github.com/asleshab/cargo.git"]
 }
